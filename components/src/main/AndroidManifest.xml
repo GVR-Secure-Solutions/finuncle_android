@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name=".FinuncleEditField"
+            android:exported="false"
+            android:label="@string/title_activity_finuncle_edit_field"
+            android:theme="@style/Theme.Finuncle" />
+    </application>
+
+</manifest>
